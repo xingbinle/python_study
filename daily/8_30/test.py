@@ -1,0 +1,1 @@
+print("Hello, World!")#学习变量
